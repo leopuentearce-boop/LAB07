@@ -1,5 +1,5 @@
-@baseUrl = http://localhost:3000/api
-@contentType = application/json
+#@baseUrl = http://localhost:3000/api
+#@contentType = application/json
 
 ### 1. Listar usuarios -> 200
 GET {{baseUrl}}/users
